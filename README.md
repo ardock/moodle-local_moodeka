@@ -1,7 +1,7 @@
 Moodeka web service for Moodle 2.X
 ------------------------------------------
 
-The webservice plugin for the Moodeka app.
+The webservice plugin for the Moodeka app (https://github.com/mouneyrac/moodeka).
 
 what does the webservice do
 ---------------------------
